@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dayvinhooo
 - 📫 How to reach me dayvinhooooo1@gmail.com
-- ⚡ Fun fact: ...
 
 <!---
 dayvinhooo/dayvinhooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
