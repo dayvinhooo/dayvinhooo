@@ -14,7 +14,7 @@
 - 👨‍🌾 Farmlite Simulator (ROBLOX) @ BlockLite.gg (Lead Developer)
   
 ## Github Stats 📊 
-![dayvinhooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvinhooo&theme=aura&show_icons=true)
+![dayvinhooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvinhooo&theme=great-gatsby&show_icons=true)
 
 ## 📫 Contact Me: 
 - Email: dayvinhooooo1@gmail.com
