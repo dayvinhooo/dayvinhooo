@@ -12,9 +12,6 @@
 
 ## What I am currently working on: 
 - 👨‍🌾 Farmlite Simulator (ROBLOX) @ BlockLite.gg (Lead Developer)
-  
-## Github Stats 📊 
-![dayvinhooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayvinhooo&theme=great-gatsby&show_icons=true)
 
 ## 📫 Contact Me: 
 - Email: dayvinhooooo1@gmail.com
