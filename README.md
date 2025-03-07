@@ -10,13 +10,13 @@
 
 #### 📚 Frameworks & libraries: ![actualtypescriptflamework](https://github.com/user-attachments/assets/283c5924-b955-425b-a8a4-99198bd7fc5a) ![npmforprofilr](https://github.com/user-attachments/assets/2188f3db-a989-4b22-8789-cc56886f971f)
 
-## What I am currently working on: 
-- 👨‍🌾 Farmlite Simulator (ROBLOX) @ BlockLite.gg (Lead Developer)
+
+<!---
 
 ## 📫 Contact Me: 
 - Email: dayvinhooooo1@gmail.com
 - Discord: @dayvinhoo
-<!---
+
 ![html5icon](https://github.com/user-attachments/assets/890e2f05-7643-4a4c-8e6b-1ecaeb8d5dc8) ![css3banner](https://github.com/user-attachments/assets/ba609141-3f6b-4d6d-be0e-433096a9a3db)
 ### I am self teaching/famillar myself those tools/languages: 
 ### Data bases & cloud hosting
