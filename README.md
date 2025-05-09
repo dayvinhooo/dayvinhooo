@@ -1,4 +1,4 @@
- # Hi, I’m @dayvinhooo 👋
+ # Hi, I’m @kuz 👋
  
 ### 🤔 Brief introduction about me:
 #### I mostly do gameplay programming (fullstack) with the ROBLOX simulation engine. I like to write code about math, algorithms or things that give me a challenge to further improve myself as a programmer, I also have some good interest in web and just game development in general. Essentially, I really just wanna make "cool" things with code 😼. I also do go to college (majoring in computer science) but I'd rather keep my place of education/location private.
